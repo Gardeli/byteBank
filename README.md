@@ -1,2 +1,2 @@
 # byteBank
-Repositorio destinado projeto de estudo em Java.
+Repositorio destinado ao projeto de estudo em Java.
